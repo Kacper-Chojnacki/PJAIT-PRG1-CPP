@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666972576 source:z:\lab8\zadanie 11\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
